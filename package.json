@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "puppeteer": "^10.1.0"
   }
 }
